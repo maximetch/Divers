@@ -47,11 +47,11 @@ Faire suivant jusqu'à avoir rempli autant de formulaires que le nombre de titre
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 25 03" src="https://github.com/maximetch/Divers/assets/1035745/a25bd209-2e80-4304-92c2-19292bdac49d">
 
-## 6. Annexe N° 2074 - Vérification des montant
+## 6. Annexe N° 2074 - Vérification des montants
 
 A l'étape 9 de l'annexe, vérifier que les sommes dans les cases préremplies correspondent bien à ce qui à été déclaré.
 <br/>
 Faire suivant jusqu'à l'étape 11.
 <br/><br/>
-<img width="948" alt="Capture d’écran 2024-04-20 à 18 25 55" src="https://github.com/maximetch/Divers/assets/1035745/9e7e32bc-ac94-4845-aaa2-4d347fafe6a5">
+<img width="600" alt="Capture d’écran 2024-04-20 à 18 25 55" src="https://github.com/maximetch/Divers/assets/1035745/9e7e32bc-ac94-4845-aaa2-4d347fafe6a5">
 
