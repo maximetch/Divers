@@ -1,4 +1,6 @@
-# Tuto déclaration des actions pour les impôts
+# Guide des déclaration des actions ADBE pour les impôts
+
+<i>Attention ce guide n'est pas absolu et peut comporter des erreurs.</i>
 
 ## 1. Aller jusqu'à l'étape 3 de la déclaration
 
