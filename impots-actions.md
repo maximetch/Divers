@@ -11,7 +11,7 @@ Cliquer sur "Sélection des annexes".
 
 ## 2. Sélection des annexes
 
-Sélectionner les annexes `N° 2074` pour déclarer la vente des action et `N° 3916 - 3916 bis` pour déclarer le compte Etrade.
+Sélectionner les annexes `N° 2074` pour déclarer la vente des actions et `N° 3916 - 3916 bis` pour déclarer le compte Etrade.
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 18 12" src="https://github.com/maximetch/Divers/assets/1035745/85de99c8-94b8-4bcb-ad15-56fc6d089c23">
 
