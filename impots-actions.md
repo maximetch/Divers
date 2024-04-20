@@ -34,7 +34,7 @@ Cliquer sur suivant
 
 Indiquer le nombre de titres vendus. 
 <br/>
-Attention il ne s'agit pas du nombre total d'actions vendus mais plutot du nombre d'opérations engagées dans le total des actions vendues pour l'année.
+Attention il ne s'agit pas du nombre total d'actions vendues mais plutot du nombre d'opérations engagées dans le total des actions vendues pour l'année.
 </br></br>
 Une fois la case remplie faire suivant.
 <br/><br/>
