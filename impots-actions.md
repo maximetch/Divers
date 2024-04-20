@@ -62,11 +62,11 @@ Faire suivant jusqu'à l'étape 11.
 ## 8. Annexe N° 2074 - Déclaration des +/- values
 
 De ce que j'ai compris nous sommes concernés par l'abattement de droit commun et non pas l'abattement renforcé car ce dernier est plûtot pour les entreprises. 
-<br/>Plus de détails sur les abattements [ici](https://www.expert-comptable-architectes.fr/plus-values-de-cession-de-titre-quelles-conditions-pour-labattement)
-
-<br/><br/>
+<br/>
+Plus de détails sur les abattements [ici](https://www.expert-comptable-architectes.fr/plus-values-de-cession-de-titre-quelles-conditions-pour-labattement)
+<br/>
 A la ligne 111, déclarer +/- values dans les cases correspondantes. 
-_NB: Je ne sais pas trop pourquoi il y a 3 lignes. Pour ma part, j'ai mis les totaux dans une seule ligne.
+__NB: Je ne sais pas trop pourquoi il y a 3 lignes. Pour ma part, j'ai mis les totaux dans une seule ligne.__
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 27 01" src="https://github.com/maximetch/Divers/assets/1035745/b6ca7659-e67b-4dc8-8968-0e7cc52fb1f1">
 
