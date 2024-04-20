@@ -4,7 +4,7 @@
 
 ## 1. Aller jusqu'à l'étape 3 de la déclaration
 
-Cliquer sur “Sélection des annexes.
+Cliquer sur "Sélection des annexes".
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 16 45" src="https://github.com/maximetch/Divers/assets/1035745/4564140a-e265-43e2-8e54-656f62eb1727">
 
@@ -73,14 +73,14 @@ A l'étape 11, aller à la ligne 111 et déclarer +/- values dans les cases corr
 <br/><br/>
 <i>NB: Je ne sais pas trop pourquoi il y a 3 lignes. Pour ma part, j'ai mis les totaux dans une seule ligne.</i>
 <br/><br/>
-Faire suivant jusqu'à la dernière page
+Faire suivant jusqu'à la dernière page.
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 27 01" src="https://github.com/maximetch/Divers/assets/1035745/b6ca7659-e67b-4dc8-8968-0e7cc52fb1f1">
 
 
 ## 9. Annexe N° 2074 - Vérification
 
-Il s'agit la uniquement de vérifier que les valeurs sont cohérentes avec celles renseignées
+Il s'agit la uniquement de vérifier que les valeurs sont cohérentes avec celles renseignées.
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 29 21" src="https://github.com/maximetch/Divers/assets/1035745/83db4db1-33e9-40ee-b432-3348a9dce347">
 
