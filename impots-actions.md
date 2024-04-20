@@ -66,7 +66,8 @@ De ce que j'ai compris nous sommes concernés par l'abattement de droit commun e
 Plus de détails sur les abattements [ici](https://www.expert-comptable-architectes.fr/plus-values-de-cession-de-titre-quelles-conditions-pour-labattement)
 <br/>
 A la ligne 111, déclarer +/- values dans les cases correspondantes. 
-__NB: Je ne sais pas trop pourquoi il y a 3 lignes. Pour ma part, j'ai mis les totaux dans une seule ligne.__
+<br/>
+**NB: Je ne sais pas trop pourquoi il y a 3 lignes. Pour ma part, j'ai mis les totaux dans une seule ligne.**
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 27 01" src="https://github.com/maximetch/Divers/assets/1035745/b6ca7659-e67b-4dc8-8968-0e7cc52fb1f1">
 
