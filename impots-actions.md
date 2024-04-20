@@ -25,14 +25,14 @@ Devrait déjà être préremplie.
 
 ## 4. Annexe N° 2074
 
-Cliquez sur suivant
+Cliquer sur suivant
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 22 55" src="https://github.com/maximetch/Divers/assets/1035745/c8ffceb2-a9cf-4f5f-89e0-e8a92741fe25">
 
 
 ## 5. Annexe N° 2074 - Déclaration du nombre de titres
 
-Indiquez le nombre de titres vendus. 
+Indiquer le nombre de titres vendus. 
 <br/>
 Attention il ne s'agit pas du nombre total d'actions vendus mais plutot du nombre d'opérations engagées dans le total des actions vendues pour l'année.
 </br></br>
