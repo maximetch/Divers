@@ -27,6 +27,7 @@ Cliquez sur suivant
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 22 55" src="https://github.com/maximetch/Divers/assets/1035745/c8ffceb2-a9cf-4f5f-89e0-e8a92741fe25">
 
+
 ## 5. Annexe N° 2074 - Déclaration du nombre de titres
 
 Indiquez le nombre de titres vendus. 
@@ -36,6 +37,7 @@ Attention il ne s'agit pas du nombre total d'actions vendus mais plutot du nombr
 Une fois la case remplie faire suivant.
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 23 37" src="https://github.com/maximetch/Divers/assets/1035745/ac5deb3e-18d3-45a5-a3dd-d82b369a3d10">
+
 
 ## 6. Annexe N° 2074 - Déclaration du nombre de titres
 
@@ -47,11 +49,26 @@ Faire suivant jusqu'à avoir rempli autant de formulaires que le nombre de titre
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 25 03" src="https://github.com/maximetch/Divers/assets/1035745/a25bd209-2e80-4304-92c2-19292bdac49d">
 
-## 6. Annexe N° 2074 - Vérification des montants
+
+## 7. Annexe N° 2074 - Vérification des montants
 
 A l'étape 9 de l'annexe, vérifier que les sommes dans les cases préremplies correspondent bien à ce qui à été déclaré.
 <br/>
 Faire suivant jusqu'à l'étape 11.
 <br/><br/>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 25 55" src="https://github.com/maximetch/Divers/assets/1035745/9e7e32bc-ac94-4845-aaa2-4d347fafe6a5">
+
+
+## 8. Annexe N° 2074 - Déclaration des +/- values
+
+De ce que j'ai compris nous sommes concernés par l'abattement de droit commun et non pas l'abattement renforcé car ce dernier est plûtot pour les entreprises. 
+<br/>Plus de détails sur les abattements [ici](https://www.expert-comptable-architectes.fr/plus-values-de-cession-de-titre-quelles-conditions-pour-labattement)
+
+<br/><br/>
+A la ligne 111, déclarer +/- values dans les cases correspondantes. 
+_NB: Je ne sais pas trop pourquoi il y a 3 lignes. Pour ma part, j'ai mis les totaux dans une seule ligne.
+<br/><br/>
+<img width="600" alt="Capture d’écran 2024-04-20 à 18 27 01" src="https://github.com/maximetch/Divers/assets/1035745/b6ca7659-e67b-4dc8-8968-0e7cc52fb1f1">
+
+
 
