@@ -49,6 +49,7 @@ Les infos peuvent se retrouver sur Etrade ou l'application de Ju (https://git.co
 <br/></br>
 Faire suivant jusqu'à avoir rempli autant de formulaires que le nombre de titres déclarés plus haut.
 <br/><br/>
+<i>NB: Calculer les frais de cession par rapport aux infos fournies par Etrade</i>
 <img width="600" alt="Capture d’écran 2024-04-20 à 18 25 03" src="https://github.com/maximetch/Divers/assets/1035745/a25bd209-2e80-4304-92c2-19292bdac49d">
 
 
